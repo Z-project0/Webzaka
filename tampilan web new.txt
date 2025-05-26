@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Bitcoin</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="btcicon.png" />
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="navbar-container">
+      <div class="logo">
+        <img src="BTC_logo.png.png" alt="Logo BTC">
+      </div>
+      <div class="menu">
+        <a href="#beranda">Beranda</a>
+        <a href="#tentang">Tentang</a>
+        <a href="#kontak">Kontak</a>
+      </div>
+      <div class="login">
+        <a href="login.html">Logout</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <header class="hero-section" id="beranda">
+    <img src="Gold_btc.jpg" alt="Bitcoin" class="hero-image">
+    <div class="hero-text">
+      <h1>Bitcoin: Primadona Digital 2030?</h1>
+      <p>Kenalan dulu yuk sama aset paling hot seantero dunia!</p>
+    </div>
+  </header>
+
+  <!-- Konten Utama -->
+  <main class="content">
+    <section class="artikel">
+      <p><strong>Bitcoin</strong> adalah mata uang digital yang diciptakan tahun 2009 oleh seseorang bernama samaran <em>Satoshi Nakamoto</em>. Menggunakan sistem blockchain, Bitcoin bersifat terdesentralisasi dan bisa digunakan tanpa perantara.</p>
+
+      <p>Bitcoin diperdagangkan di berbagai platform dan harganya sangat fluktuatif. Bisa jadi investasi, tapi tetap harus berhati-hati karena risikonya tinggi.</p>
+
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/e0fbu5QvdWY" frameborder="0" allowfullscreen></iframe>
+      <p><a href="https://youtu.be/e0fbu5QvdWY?si=4G5j4YRx1GfJR8SD" target="_blank">Tonton video selengkapnya.</a></p>
+    </section>
+
+    <!-- Tentang -->
+    <section id="tentang" class="info-section">
+      <h2>Tentang Website</h2>
+      <p>Web ini membahas Bitcoin dengan cara santai dan informatif. Kami ingin kamu jadi lebih cerdas soal investasi kripto!
+       Apa Itu Bitcoin?
+    Bitcoin adalah mata uang digital yang didistribusikan secara elektronik dan tidak dikeluarkan atau dikendalikan oleh pemerintah mana pun. Dijalankan oleh serangkaian komputer di seluruh dunia yang membentuk jaringan keuangan terdesentralisasi, Bitcoin dapat digunakan untuk menyimpan nilai dan dapat dikirim kapan pun ke siapa saja di mana saja. Perangkat lunak Bitcoin berbentuk open source, artinya siapa pun di seluruh dunia dapat menjalankan server Bitcoin dan berpartisipasi menjadi bagian dari jaringan.
+    Sejarah Bitcoin
+    Pada Oktober 2008, seseorang bernama Satoshi Nakamoto menerbitkan whitepaper Bitcoin berisi 8 halaman yang berjudul “Bitcoin: A Peer-to-Peer Electronic Cash System.” Tulisan ini dirilis ke dalam milis yang beranggotakan ahli kriptografi dan ilmu komputer. Seiring waktu, whitepaper Bitcoin semakin disebarkan dan mulai populer di industri ilmu komputer, terutama di kalangan Cypherpunks.
+
+    Jaringan Bitcoin kemudian diluncurkan pada 2009 sesuai dengan visi Satoshi dalam whitepaper Bitcoin. Pada tanggal 26 April 2011, Satoshi mengirimkan email kepada rekan-rekan sesama developer di komunitasnya, bahwa ia memutuskan untuk meninggalkan proyek Bitcoin dan menyerahkan kendali pengembangan kode dan jaringannya kepada sekelompok sukarelawan. Hingga saat ini, belum ada yang mengetahui siapa orang atau kelompok di balik nama Satoshi Nakamoto
+    Fungsi Utama dan Kelebihan Bitcoin
+    <br><br>
+        <p>🌍 Borderless: Bitcoin dapat digunakan dimana saja tanpa dibatasi oleh negara. Ia adalah mata uang yang bersifat global, sama seperti dolar.</p>
+
+        <br>📈 Jumlah yang terbatas: Jumlah suplai Bitcoin yang terbatas membuatnya memiliki nilai yang lebih tinggi daripada mata uang biasa.
+        <br>
+        <br>⛔ Tidak dikontrol pemerintah atau Bank: Kontrol Bitcoin sepenuhnya ada pada mereka yang menggunakannya tanpa ada campur tangan otoritas pusat.
+        <br>
+        <br>🔐 Keamanan transaksi: Jaringan blockchain Bitcoin belum pernah diretas karena keamanannya yang bersifat terdesentralisasi .
+        <br>
+        <br>🤼 Peer-to-peer: Sistem transaksi p2p memungkinkan semua transaksi Bitcoin dilakukan tanpa perantara yang membuat data pribadimu lebih terjaga.
+        <br>
+        <br>🪙 Emas digital: Bitcoin sering disebut sebagai emas digital karena ia bisa digunakan untuk menyimpan aset tanpa khawatir harganya hilang atau turun dalam jangka panjang.
+            Kekurangan Bitcoin
+        <br>🧐 Penggunaannya yang terbatas: Meskipun sudah ada sejak 2009, penggunaan Bitcoin dalam aktivitas sehari-hari masih sangat terbatas, terutama di Indonesia.
+        <br>
+        <br>📉 Volatilitas harga: Semua aset kripto memiliki harga yang sangat rentan naik-turun dalam jangka waktu pendek, terutama Bitcoin sebagai tolak ukur pasar kripto.
+        <br>
+        <br>🕵️ Rentan penipuan: Meskipun jaringan yang aman, pengguna Bitcoin sering mengalami banyak penipuan dan upaya peretasan melalui email dengan metode phishing.
+        <br>
+        <br>⚠️ Resiko tinggi: Sebagai teknologi baru, Bitcoin memiliki beberapa resiko tinggi seperti rugi karena harganya yang turun dan juga potensi kehilangan uang karena kecerobohan saat bertransaksi..
+      </p>
+
+      <fieldset>
+        <legend>Petuah Kripto</legend>
+        <p>"Orang bijak kenal Bitcoin dari jauh. Orang sukses kenal lebih dalam."</p>
+        <audio controls>
+          <source src="mclaren-lu-warna-apa-bos.mp3" type="audio/mpeg" />
+          Browser Anda tidak mendukung audio.
+        </audio>
+      </fieldset>
+    </section>
+
+    <!-- Kontak -->
+    <section id="kontak" class="contact-section">
+      <h2>Kontak Developer</h2>
+      <div class="contact-links">
+        <div><strong>Farrel</strong>: <a href="https://github.com/thebreath1" target="_blank"><img src="icons8-github-30.png"></a></div>
+        <div><strong>Zaka</strong>: <a href="https://github.com/Z-project0" target="_blank"><img src="icons8-github-30.png"></a></div>
+        <div><strong>Rizki</strong>: <a href="https://github.com/iki4444" target="_blank"><img src="icons8-github-30.png"></a></div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>&copy; Farrel, Rizki & Zaka - 2025</p>
+  </footer>
+
+  <script>
+    document.querySelector(".hero-image").addEventListener("click", () => {
+      alert("Fathin racing 🚀");
+    });
+  </script>
+</body>
+</html>
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background-color: #fdfdfd;
+  line-height: 1.6;
+  color: #333;
+  padding-top: 70px;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #c95e06;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.navbar-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.8rem 1rem;
+}
+.navbar .logo img {
+  height: 40px;
+}
+.navbar .menu a,
+.navbar .login a {
+  color: white;
+  text-decoration: none;
+  margin: 0 0.8rem;
+  font-weight: bold;
+  padding: 0.5rem 0.8rem;
+  transition:0.3s;
+}
+.navbar .menu a:hover,
+.navbar .login a:hover {
+  background-color: #00bfff;
+  border-radius: 4px;
+}
+
+/* Hero */
+.hero-section {
+  position: relative;
+  text-align: center;
+}
+.hero-image {
+  width: 100%;
+  height: auto;
+  opacity: 0.9;
+  filter: brightness(80%);
+}
+.hero-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-shadow: 2px 2px 4px #000;
+}
+.hero-text h1 {
+  font-size: 2.5rem;
+}
+.hero-text p {
+  font-size: 1.2rem;
+  margin-top: 0.5rem;
+}
+
+/* Konten */
+.content {
+  max-width: 1000px;
+  margin: auto;
+  padding: 2rem 1rem;
+}
+.artikel iframe {
+  margin-top: 1rem;
+  width: 100%;
+  max-width: 560px;
+  height: 315px;
+}
+
+/* Section */
+.info-section, .contact-section {
+  margin-top: 3rem;
+}
+fieldset {
+  background-color: #ffe3c4;
+  padding: 1rem;
+  border: 2px solid #c95e06;
+  border-radius: 8px;
+  margin-top: 1rem;
+}
+.contact-links div {
+  margin: 0.5rem 0;
+}
+
+/* Footer */
+.footer {
+  background-color: #c95e06;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}
